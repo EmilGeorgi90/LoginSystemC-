@@ -1,0 +1,14 @@
+c:\users\emil376g\documents\visual studio 2017\Projects\CRUD\CRUD\obj\Debug\CRUD.csprojResolveAssemblyReference.cache
+c:\users\emil376g\documents\visual studio 2017\Projects\CRUD\CRUD\obj\Debug\MainWindow.g.cs
+c:\users\emil376g\documents\visual studio 2017\Projects\CRUD\CRUD\obj\Debug\App.g.cs
+c:\users\emil376g\documents\visual studio 2017\Projects\CRUD\CRUD\obj\Debug\CRUD_MarkupCompile.cache
+c:\users\emil376g\documents\visual studio 2017\Projects\CRUD\CRUD\obj\Debug\CRUD_MarkupCompile.lref
+c:\users\emil376g\documents\visual studio 2017\Projects\CRUD\CRUD\bin\Debug\CRUD.exe.config
+c:\users\emil376g\documents\visual studio 2017\Projects\CRUD\CRUD\bin\Debug\CRUD.exe
+c:\users\emil376g\documents\visual studio 2017\Projects\CRUD\CRUD\bin\Debug\CRUD.pdb
+c:\users\emil376g\documents\visual studio 2017\Projects\CRUD\CRUD\obj\Debug\MainWindow.baml
+c:\users\emil376g\documents\visual studio 2017\Projects\CRUD\CRUD\obj\Debug\CRUD.g.resources
+c:\users\emil376g\documents\visual studio 2017\Projects\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+c:\users\emil376g\documents\visual studio 2017\Projects\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.Cache
+c:\users\emil376g\documents\visual studio 2017\Projects\CRUD\CRUD\obj\Debug\CRUD.exe
+c:\users\emil376g\documents\visual studio 2017\Projects\CRUD\CRUD\obj\Debug\CRUD.pdb
